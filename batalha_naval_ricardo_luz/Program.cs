@@ -20,7 +20,7 @@ class batalha_naval
         embarcacoes.Add("Porta-aviões");
 
         //Definição dos 8 tabuleiros:
-        string[,] tabuleiro1, tabuleiro2, invisivelpc, invisivelvspc, tabuleiroVSPC, tabuleiroPC, tabuleiroTiros1, tabuleiroTiros2, tabuleiroTirosVSPC, tabuleiroTirosPC;
+        string[,] tabuleiro1, tabuleiro2, tabuleiroVSPC, tabuleiroPC, tabuleiroTiros1, tabuleiroTiros2, tabuleiroTirosVSPC, tabuleiroTirosPC;
 
         int jogadas1 = 0, jogadas2 = 0, jogadasvspc = 0, jogadaspc = 0;
 
